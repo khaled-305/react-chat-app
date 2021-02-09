@@ -1,3 +1,5 @@
+# This is a chat app developed with reactJs and chatengine. The app allows users to create chat rooms, send messages and files, see who's online, and lots more.., the app can be customized more with react and the docs on chatengine.io
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
